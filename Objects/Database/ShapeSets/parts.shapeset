@@ -1,0 +1,17 @@
+{
+    "partList": [
+        {
+            "autoTool": "cd8f3686-5456-467e-a856-461a2d945c7a",
+            "box": {
+                "x": 1,
+                "y": 1,
+                "z": 1
+            },
+            "name": "obj_vortex_shield",
+            "physicsMaterial": "Default",
+            "renderable": "$GAME_DATA/Character/Char_Tools/char_lift_preview.rend",
+            "rotationSet": "Default",
+            "uuid": "00000000-0000-0000-0000-000000000000"
+        }
+    ]
+}

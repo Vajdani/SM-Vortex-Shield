@@ -1,0 +1,340 @@
+{
+    "partList": [
+        {
+            "box": {
+                "x": 1,
+                "y": 1,
+                "z": 1
+            },
+            "color": "ffffff",
+            "name": "obj_projectileShape_potato",
+            "physicsMaterial": "Plastic",
+            "ratings": {},
+            "renderable": "$GAME_DATA/Projectiles/Renderables/potato.rend",
+            "rotationSet": "PropY",
+            "showInInventory": false,
+            "stackSize": 1,
+            "uuid": "5e8eeaae-b5c1-4992-bb21-dec5254ce722"
+        },
+        {
+            "box": {
+                "x": 1,
+                "y": 1,
+                "z": 1
+            },
+            "color": "ffffff",
+            "name": "obj_projectileShape_smallpotato",
+            "physicsMaterial": "Plastic",
+            "ratings": {},
+            "renderable": "$GAME_DATA/Projectiles/Renderables/projectile_spinner_potato.rend",
+            "rotationSet": "PropY",
+            "showInInventory": false,
+            "stackSize": 1,
+            "uuid": "132c44d3-7436-419d-ac6b-fc178336dcb7"
+        },
+        {
+            "box": {
+                "x": 1,
+                "y": 1,
+                "z": 1
+            },
+            "color": "ffffff",
+            "name": "obj_projectileShape_fries",
+            "physicsMaterial": "Plastic",
+            "ratings": {},
+            "renderable": "$GAME_DATA/Projectiles/Renderables/projectile_fries.rend",
+            "rotationSet": "PropY",
+            "showInInventory": false,
+            "stackSize": 1,
+            "uuid": "9b6b4c56-fba1-400f-94fa-23f9613c0423"
+        },
+        {
+            "box": {
+                "x": 1,
+                "y": 1,
+                "z": 1
+            },
+            "color": "ffffff",
+            "name": "obj_projectileShape_tomato",
+            "physicsMaterial": "Plastic",
+            "ratings": {},
+            "renderable": "$GAME_DATA/Projectiles/Renderables/projectile_tomato.rend",
+            "rotationSet": "PropY",
+            "showInInventory": false,
+            "stackSize": 1,
+            "uuid": "b72b01a5-59ad-4882-bbd3-3cbc9f357823"
+        },
+        {
+            "box": {
+                "x": 1,
+                "y": 1,
+                "z": 1
+            },
+            "color": "ffffff",
+            "name": "obj_projectileShape_carrot",
+            "physicsMaterial": "Plastic",
+            "ratings": {},
+            "renderable": "$GAME_DATA/Projectiles/Renderables/projectile_carrot.rend",
+            "rotationSet": "PropY",
+            "showInInventory": false,
+            "stackSize": 1,
+            "uuid": "69fc1a2b-77d2-40da-9a82-03fbe3c35a18"
+        },
+        {
+            "box": {
+                "x": 1,
+                "y": 1,
+                "z": 1
+            },
+            "color": "ffffff",
+            "name": "obj_projectileShape_redbeet",
+            "physicsMaterial": "Plastic",
+            "ratings": {},
+            "renderable": "$GAME_DATA/Projectiles/Renderables/projectile_redbeet.rend",
+            "rotationSet": "PropY",
+            "showInInventory": false,
+            "stackSize": 1,
+            "uuid": "358700c1-7555-41dc-90d1-92374051f985"
+        },
+        {
+            "box": {
+                "x": 1,
+                "y": 1,
+                "z": 1
+            },
+            "color": "ffffff",
+            "name": "obj_projectileShape_broccoli",
+            "physicsMaterial": "Plastic",
+            "ratings": {},
+            "renderable": "$GAME_DATA/Projectiles/Renderables/projectile_broccoli.rend",
+            "rotationSet": "PropY",
+            "showInInventory": false,
+            "stackSize": 1,
+            "uuid": "b6f296d0-bc03-4098-85b5-52546daad1d7"
+        },
+        {
+            "box": {
+                "x": 1,
+                "y": 1,
+                "z": 1
+            },
+            "color": "ffffff",
+            "name": "obj_projectileShape_pineapple",
+            "physicsMaterial": "Plastic",
+            "ratings": {},
+            "renderable": "$GAME_DATA/Projectiles/Renderables/projectile_pineapple.rend",
+            "rotationSet": "PropY",
+            "showInInventory": false,
+            "stackSize": 1,
+            "uuid": "65d509b9-09f8-4e32-8b1a-0a6aa11f8660"
+        },
+        {
+            "box": {
+                "x": 1,
+                "y": 1,
+                "z": 1
+            },
+            "color": "ffffff",
+            "name": "obj_projectileShape_orange",
+            "physicsMaterial": "Plastic",
+            "ratings": {},
+            "renderable": "$GAME_DATA/Projectiles/Renderables/projectile_orange.rend",
+            "rotationSet": "PropY",
+            "showInInventory": false,
+            "stackSize": 1,
+            "uuid": "9963fbc0-1314-4db4-8866-1237ace867c3"
+        },
+        {
+            "box": {
+                "x": 1,
+                "y": 1,
+                "z": 1
+            },
+            "color": "ffffff",
+            "name": "obj_projectileShape_blueberry",
+            "physicsMaterial": "Plastic",
+            "ratings": {},
+            "renderable": "$GAME_DATA/Projectiles/Renderables/projectile_blueberry.rend",
+            "rotationSet": "PropY",
+            "showInInventory": false,
+            "stackSize": 1,
+            "uuid": "599b112d-2ff9-4f14-9051-0f58bebb2c94"
+        },
+        {
+            "box": {
+                "x": 1,
+                "y": 1,
+                "z": 1
+            },
+            "color": "ffffff",
+            "name": "obj_projectileShape_banana",
+            "physicsMaterial": "Plastic",
+            "ratings": {},
+            "renderable": "$GAME_DATA/Projectiles/Renderables/projectile_banana.rend",
+            "rotationSet": "PropY",
+            "showInInventory": false,
+            "stackSize": 1,
+            "uuid": "4e259125-d1c0-4678-ae41-2652cf224692"
+        },
+        {
+            "box": {
+                "x": 1,
+                "y": 1,
+                "z": 1
+            },
+            "color": "ffffff",
+            "name": "obj_projectileShape_tape",
+            "physicsMaterial": "Plastic",
+            "ratings": {},
+            "renderable": "$GAME_DATA/Projectiles/Renderables/projectile_tape.rend",
+            "rotationSet": "PropY",
+            "showInInventory": false,
+            "stackSize": 1,
+            "uuid": "1a981b70-dc08-4105-89b1-79819511a2fb"
+        },
+        {
+            "box": {
+                "x": 1,
+                "y": 1,
+                "z": 1
+            },
+            "color": "ffffff",
+            "name": "obj_projectileShape_explosivetape",
+            "physicsMaterial": "Plastic",
+            "ratings": {},
+            "renderable": "$GAME_DATA/Projectiles/Renderables/projectile_explosivetape.rend",
+            "rotationSet": "PropY",
+            "showInInventory": false,
+            "stackSize": 1,
+            "uuid": "31b92b9a-a9f8-4f6d-988b-04ad479978ec"
+        },
+        {
+            "box": {
+                "x": 1,
+                "y": 1,
+                "z": 1
+            },
+            "color": "ffffff",
+            "name": "obj_projectileShape_pesticide",
+            "physicsMaterial": "Plastic",
+            "ratings": {},
+            "renderable": "$GAME_DATA/Projectiles/Renderables/potato.rend",
+            "rotationSet": "PropY",
+            "showInInventory": false,
+            "stackSize": 1,
+            "uuid": "68029b35-2028-42a5-8509-286d78656561"
+        },
+        {
+            "box": {
+                "x": 1,
+                "y": 1,
+                "z": 1
+            },
+            "color": "ffffff",
+            "name": "obj_projectileShape_water",
+            "physicsMaterial": "Plastic",
+            "ratings": {},
+            "renderable": "$GAME_DATA/Projectiles/Renderables/projectile_water.rend",
+            "rotationSet": "PropY",
+            "showInInventory": false,
+            "stackSize": 1,
+            "uuid": "2c3fc640-1a2e-4328-a872-f6d3f92d0fea"
+        },
+        {
+            "box": {
+                "x": 1,
+                "y": 1,
+                "z": 1
+            },
+            "color": "ffffff",
+            "name": "obj_projectileShape_fertilizer",
+            "physicsMaterial": "Plastic",
+            "ratings": {},
+            "renderable": "$GAME_DATA/Projectiles/Renderables/projectile_fertilizer.rend",
+            "rotationSet": "PropY",
+            "showInInventory": false,
+            "stackSize": 1,
+            "uuid": "5610b246-774e-4c1c-9adc-f87b4d993c43"
+        },
+        {
+            "box": {
+                "x": 1,
+                "y": 1,
+                "z": 1
+            },
+            "color": "ffffff",
+            "name": "obj_projectileShape_chemical",
+            "physicsMaterial": "Plastic",
+            "ratings": {},
+            "renderable": "$GAME_DATA/Projectiles/Renderables/projectile_chemical.rend",
+            "rotationSet": "PropY",
+            "showInInventory": false,
+            "stackSize": 1,
+            "uuid": "46292783-af41-49a5-91ef-092f22dfae91"
+        },
+        {
+            "box": {
+                "x": 1,
+                "y": 1,
+                "z": 1
+            },
+            "color": "ffffff",
+            "name": "obj_projectileShape_seed",
+            "physicsMaterial": "Plastic",
+            "ratings": {},
+            "renderable": "$GAME_DATA/Projectiles/Renderables/projectile_seed.rend",
+            "rotationSet": "PropY",
+            "showInInventory": false,
+            "stackSize": 1,
+            "uuid": "9512029a-3f1d-4aa2-92bf-cb876d5c8cb0"
+        },
+        {
+            "box": {
+                "x": 1,
+                "y": 1,
+                "z": 1
+            },
+            "color": "ffffff",
+            "name": "obj_projectileShape_glowstick",
+            "physicsMaterial": "Plastic",
+            "ratings": {},
+            "renderable": "$GAME_DATA/Projectiles/Renderables/projectile_glowstick.rend",
+            "rotationSet": "PropY",
+            "showInInventory": false,
+            "stackSize": 1,
+            "uuid": "bdd04d53-2103-4c17-a3cb-ddbbae934ebb"
+        },
+        {
+            "box": {
+                "x": 1,
+                "y": 1,
+                "z": 1
+            },
+            "color": "ffffff",
+            "name": "obj_projectileShape_loot",
+            "physicsMaterial": "Plastic",
+            "ratings": {},
+            "renderable": "$GAME_DATA/Projectiles/Renderables/potato.rend",
+            "rotationSet": "PropY",
+            "showInInventory": false,
+            "stackSize": 1,
+            "uuid": "45209992-1a59-479e-a446-57140b605836"
+        },
+        {
+            "box": {
+                "x": 1,
+                "y": 1,
+                "z": 1
+            },
+            "color": "ffffff",
+            "name": "obj_projectileShape_epicloot",
+            "physicsMaterial": "Plastic",
+            "ratings": {},
+            "renderable": "$GAME_DATA/Projectiles/Renderables/potato.rend",
+            "rotationSet": "PropY",
+            "showInInventory": false,
+            "stackSize": 1,
+            "uuid": "17cd4768-3123-4ce3-835a-362321dcf9de"
+        }
+    ]
+}

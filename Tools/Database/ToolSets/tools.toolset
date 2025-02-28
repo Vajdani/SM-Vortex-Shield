@@ -1,0 +1,15 @@
+{
+    "toolList": [
+        {
+            "name": "VortexShield",
+            "previewRenderable": "$GAME_DATA/Character/Char_Tools/char_lift_preview.rend",
+            "script": {
+                "class": "VortexShield",
+                "data": {},
+                "file": "$CONTENT_DATA/Scripts/VortexShield.lua"
+            },
+            "uuid": "cd8f3686-5456-467e-a856-461a2d945c7a",
+            "autoTool": true
+        }
+    ]
+}

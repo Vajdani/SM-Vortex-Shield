@@ -1,0 +1,36 @@
+{
+	"lodList": [
+		{
+			"mesh": "$GAME_DATA/Character/Char_Male/Animations/Animationrefs/aniref_char_male_tpose.dae",
+			"includes": [
+				"POSITION",
+				"UV0",
+				"NORMAL",
+				"TANGENTS",
+				"BLEND_INDICES",
+				"BLEND_WEIGHTS"
+			],
+			"animationList": [
+				{
+					"name": "shield_into",
+					"file": "$CONTENT_DATA/Tools/char_vortexshield_use_into.dae"
+				},
+				{
+					"name": "shield_idle",
+					"file": "$CONTENT_DATA/Tools/char_vortexshield_use_idle.dae",
+					"looping": true
+				},
+				{
+					"name": "shield_exit",
+					"file": "$CONTENT_DATA/Tools/char_vortexshield_use_exit.dae"
+				},
+				{
+					"name": "idle",
+					"file": "$GAME_DATA/Character/Char_Male/Animations/Thirdperson/Locomotion/Idle/ani_char_male_lom_idle.dae",
+					"looping": true
+				}
+			],
+			"maxViewDistance": 1000.0
+		}
+	]
+}
