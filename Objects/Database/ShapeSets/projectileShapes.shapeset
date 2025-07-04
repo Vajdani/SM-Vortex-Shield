@@ -335,6 +335,86 @@
             "showInInventory": false,
             "stackSize": 1,
             "uuid": "17cd4768-3123-4ce3-835a-362321dcf9de"
+        },
+        {
+            "box": {
+                "x": 1,
+                "y": 1,
+                "z": 1
+            },
+            "color": "ffffff",
+            "name": "obj_projectileShape_turret_bullet_normal",
+            "physicsMaterial": "Plastic",
+            "ratings": {},
+            "renderable": "$CONTENT_f51045bd-3f94-476a-8053-55ba172d19a5/Projectiles/Renderables/turret_bullet_normal.rend",
+            "rotationSet": "PropY",
+            "showInInventory": false,
+            "stackSize": 1,
+            "uuid": "fad5bb05-b6da-46ec-92f7-9ffb38bd6c9b"
+        },
+        {
+            "box": {
+                "x": 1,
+                "y": 1,
+                "z": 1
+            },
+            "color": "ffffff",
+            "name": "obj_projectileShape_cannon_ratshot",
+            "physicsMaterial": "Plastic",
+            "ratings": {},
+            "renderable": "$CONTENT_f51045bd-3f94-476a-8053-55ba172d19a5/Projectiles/Renderables/cannon_ratshot.rend",
+            "rotationSet": "PropY",
+            "showInInventory": false,
+            "stackSize": 1,
+            "uuid": "53e5da10-99ea-48d5-98b5-c03d0938811e"
+        },
+        {
+            "box": {
+                "x": 1,
+                "y": 1,
+                "z": 1
+            },
+            "color": "ffffff",
+            "name": "obj_projectileShape_potato_copy_nohit",
+            "physicsMaterial": "Plastic",
+            "ratings": {},
+            "renderable": "$GAME_DATA/Projectiles/Renderables/potato.rend",
+            "rotationSet": "PropY",
+            "showInInventory": false,
+            "stackSize": 1,
+            "uuid": "4cc37871-c53f-4f47-9e68-d08f84492d6a"
+        },
+        {
+            "box": {
+                "x": 1,
+                "y": 1,
+                "z": 1
+            },
+            "color": "ffffff",
+            "name": "obj_projectileShape_potato_copy",
+            "physicsMaterial": "Plastic",
+            "ratings": {},
+            "renderable": "$GAME_DATA/Projectiles/Renderables/potato.rend",
+            "rotationSet": "PropY",
+            "showInInventory": false,
+            "stackSize": 1,
+            "uuid": "baf7ff9d-191a-4ea4-beba-e160ceb54daf"
+        },
+        {
+            "box": {
+                "x": 1,
+                "y": 1,
+                "z": 1
+            },
+            "color": "ffffff",
+            "name": "obj_projectileShape_big_potato",
+            "physicsMaterial": "Plastic",
+            "ratings": {},
+            "renderable": "$CONTENT_f51045bd-3f94-476a-8053-55ba172d19a5/Objects/Renderables/Ammo/obj_big_potato.rend",
+            "rotationSet": "PropY",
+            "showInInventory": false,
+            "stackSize": 1,
+            "uuid": "a385b242-ce0c-4e3b-82a7-99da38510709"
         }
     ]
 }
